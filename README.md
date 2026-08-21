@@ -7,5 +7,6 @@ A hands-on home lab built out of genuine interest in security operations — fol
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [Home SOC Lab Build](projects/project-1-home-soc-lab-build/README.md) | Complete |
+| 2 | [Windows Logging Baseline with Sysmon](projects/project-2-sysmon-baseline/README.md) | Complete |
 
 More projects will be added here as they're completed, each building on skills from the last — Windows/Sysmon logging baseline, Wazuh setup and detection, alert triage, brute-force detection, log forensics, and onward toward Sigma rules and a small automation pipeline.
