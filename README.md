@@ -1,6 +1,6 @@
 # Home SOC Lab & Portfolio
 
-A hands-on home lab documenting progress toward a SOC Analyst / Junior Security Analyst role — built alongside HTB Academy's SOC Analyst path. Each project is self-contained: a short write-up, a diagram where relevant, and evidence (screenshots/logs) backing up what was actually done.
+A hands-on home lab built out of genuine interest in security operations — following along with HTB Academy's SOC Analyst path. Each project is self-contained: a short write-up, a diagram where relevant, and evidence (screenshots/logs) backing up what was actually done.
 
 ## Projects
 
