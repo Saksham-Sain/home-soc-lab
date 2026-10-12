@@ -173,6 +173,6 @@ None of the individual events above mean much on their own — a process launchi
 - [x] Log sizes increased, Advanced Audit Policy configured
 - [x] Baseline activity generated and reviewed across Sysmon (1, 3, 13, 22) and Security (4624, 4625, 4688)
 - [x] Findings documented with evidence
-- [ ] Snapshot `Sysmon-Configured-Baseline` taken — pending
+- [x] Snapshot `Sysmon-Configured-Baseline` taken
 
 **Next project:** Wazuh SIEM setup and detection, built on top of this baseline.
